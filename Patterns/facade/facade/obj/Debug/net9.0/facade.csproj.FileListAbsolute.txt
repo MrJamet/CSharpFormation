@@ -1,0 +1,14 @@
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\bin\Debug\net9.0\facade.exe
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\bin\Debug\net9.0\facade.deps.json
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\bin\Debug\net9.0\facade.runtimeconfig.json
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\bin\Debug\net9.0\facade.dll
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\bin\Debug\net9.0\facade.pdb
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.dll
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\refint\facade.dll
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.pdb
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\facade.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Documents\SoftwareDevelopment\Patterns\facade\facade\obj\Debug\net9.0\ref\facade.dll
